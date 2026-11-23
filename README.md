@@ -14,8 +14,6 @@
 | --- | --- |
 | [arhbo.musicxml](arhbo.musicxml) | 可编辑的钢琴双谱表。用 MuseScore 打开，右手为高音谱号，左手为低音谱号。 |
 | [arhbo.mid](arhbo.mid) | 钢琴播放与 DAW 导入。左右手分轨，时长约 3 分 48 秒。 |
-| [校对总结](proofreading_summary.txt) | 校对范围、重点修改、合并与验证说明。 |
-| [逐小节修改记录](correction_report.csv) | 原 MIDI 与校对版的差异，按原谱页码和小节号定位。 |
 
 ## 校对说明
 
